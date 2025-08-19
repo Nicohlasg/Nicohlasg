@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning ... engineering thing?
 - 💞️ I’m looking to collaborate on ... nothing
 - 📫 How to reach me ... dont
-- 😄 Pronouns: ... nik/ker
-- ⚡ Fun fact: ... nikker ╮(╯▽╰)╭
+- 😄 Pronouns: ... 
+- ⚡ Fun fact: ...
 
 <!---
 Nicohlasg/Nicohlasg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
