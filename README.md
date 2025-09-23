@@ -1,12 +1,22 @@
-- 👋 Hi, I’m @Nicohlasg
-- 👀 I’m interested in ... 
-- 🌱 I’m currently learning ... engineering thing?
-- 💞️ I’m looking to collaborate on ... nothing
-- 📫 How to reach me ... dont
-- 😄 Pronouns: ... 
-- ⚡ Fun fact: ...
+# Onlook Template
 
-<!---
-Nicohlasg/Nicohlasg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="src/app/favicon.ico" />
+</p>
+
+This is an [Onlook](https://onlook.dev/) project set up with
+[Next.js](https://nextjs.org/), and [TailwindCSS](https://tailwindcss.com/).
+
+## Getting Started
+
+First, run the development server:
+
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```

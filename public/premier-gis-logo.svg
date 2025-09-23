@@ -1,0 +1,14 @@
+<svg width="200" height="80" viewBox="0 0 200 80" xmlns="http://www.w3.org/2000/svg">
+  <!-- Orange curved lines representing motion/protection -->
+  <path d="M10 20 Q50 10 90 15 Q130 20 160 25" fill="none" stroke="#f97316" stroke-width="4" stroke-linecap="round"/>
+  <path d="M5 30 Q45 20 85 25 Q125 30 155 35" fill="none" stroke="#ea580c" stroke-width="4" stroke-linecap="round"/>
+  <path d="M15 40 Q55 30 95 35 Q135 40 165 45" fill="none" stroke="#fb923c" stroke-width="3" stroke-linecap="round"/>
+  
+  <!-- Company name -->
+  <text x="100" y="60" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#1e40af">
+    PREMIER GIS
+  </text>
+  <text x="100" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#64748b">
+    INSURE • TRUST • PROTECT
+  </text>
+</svg>
